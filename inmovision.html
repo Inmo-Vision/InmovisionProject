@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="png" href="./assets/inmovisionlogo-sinFondo.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
+    <title>InmoVision - Casa de Campo Inteligente</title>
+</head>
+<body>
+
+    
+    <header>
+        <div class="contenedor">
+            <div class="logo_container">
+                <img src="/imagenes/inmovisionlogo-sinFondo.png" alt="">
+                <p>InmoVision</p>
+            </div>  
+            <nav class="navegacion">
+                <a href="Homepage.html">Inicio</a>
+                <a href="#">Destacados</a>
+                <a href="#">Contactos</a>
+            </nav>
+            <div class="avatar_container">
+                <img src="/imagenes/profile.jpg" alt="Perfil" class="avatar">
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <img class="main-image" src="/imagenes/slider1.jpeg" alt="Casa principal">
+        <h1 class="title">Casa de Campo Inteligente</h1>
+
+        <div id="casa" class="section-container">
+            <div class="casa-container">
+                <div class="slider-container">
+                    <div class="slider" id="slider">
+                        <div class="slider__list">
+                            <img src="/imagenes/slider1.jpeg" alt="Slider 1" class="slider__img">
+                        </div>
+                        <div class="slider__list">
+                            <img src="/imagenes/slider2.jpeg" alt="Slider 2" class="slider__img">
+                        </div>
+                        <div class="slider__list">
+                            <img src="/imagenes/slider3.jpeg" alt="Slider 3" class="slider__img">
+                        </div>
+                        <div class="slider__list">
+                            <img src="/imagenes/slider4.jpeg" alt="Slider 4" class="slider__img">
+                        </div>
+                        <div class="slider__list">
+                            <img src="/imagenes/slider5.jpeg" alt="Slider 5" class="slider__img">
+                        </div>
+                    </div>
+                    <div class="slider__btn slider__btn--left" id="btn-left"><i class="bi bi-arrow-left"></i></div>
+                    <div class="slider__btn slider__btn--right" id="btn-right"><i class="bi bi-arrow-right"></i></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="details">
+            <div>
+                <i class="bi bi-box"></i> <p> Disponible</p>
+            </div>
+            <div>
+                <i class="bi bi-geo-alt"></i> <p> Huaral, Chancay</p>
+            </div>
+            <div>
+                <i class="bi bi-calendar"></i> <p> Publicado el 12/08/2023</p>
+            </div>
+            <div>
+                <i class="bi bi-eye"></i> <p> 1.9 K visualizaciones</p>
+            </div>
+            <div>
+                <i class="bi bi-person"></i> <p> SweetHome</p>
+            </div>
+            <div>
+                <i class="bi bi-check-circle"></i> <p> 6 Dormitorios</p>
+            </div>
+        </div>
+
+        <div class="vr-section">
+            <img src="/imagenes/Simu.jpeg" alt="Explora en VR">
+            <div class="overlay">
+                <h2>Explora de manera virtual</h2>
+                <button><p class="boton_Simu">Ver Simulador</p></button>
+            </div>
+        </div>
+    </div>
+    <script src="/scripts/casa.js"></script>
+</body>
+</html>

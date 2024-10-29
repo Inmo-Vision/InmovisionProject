@@ -1,0 +1,988 @@
+body{
+  margin-left: auto;
+  padding: 0;
+  margin-top: auto;
+  max-width: fit-content;
+  margin-right: auto;
+  background-color: #083152;
+  div.Desktop1{
+
+    width: 1440px; 
+    height: 3267px; 
+    position: relative; 
+    background: white;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.20);
+    border-radius: 23px;
+  
+    div.Footer{
+      height: 433px;
+      left: 0px;
+      top: 2826px;
+      position: absolute;
+      
+      div.Rectangle12{
+        width: 1440px; 
+        height: 400px; 
+        left: 0px; 
+        top: 0px; 
+        position: absolute; 
+        background: black;
+      }
+      div.Contactanos{
+        left: 643px; 
+        top: 33px; 
+        position: absolute; 
+        color: white; 
+        font-size: 32px; 
+        font-family: Inter; 
+        font-weight: 700; 
+        line-height: 35.20px; 
+        word-wrap: break-word;
+      }
+      div.Copyright{
+        left: 491px; 
+        top: 410px; 
+        position: relative; 
+        color: #828282; 
+        font-size: 16px; 
+        font-family: Inter; 
+        font-weight: 700; 
+        line-height: 22.40px; 
+      }
+      div.Line1{
+        width: 440px; 
+        height: 0px; 
+        left: 131px; 
+        top: 51px; 
+        position: absolute; 
+        border: 1px white solid;
+      }
+      div.Line2{
+        width: 440px;
+        height: 0px;
+        left: 891px;
+        top: 51px; 
+        position: absolute; 
+        border: 1px white solid;
+      }
+      div.Distritos{
+        left: 596px; 
+        top: 80px; 
+        position: relative; 
+        color: white; 
+        font-size: 24px; 
+        font-family: Lexend Deca; 
+        font-weight: 700; 
+        line-height: 26.40px; 
+      }
+      div.Siguenos{
+        left: 1105px; 
+        top: 102px; 
+        position: absolute; 
+        color: white; 
+        font-size: 24px; 
+        font-family: Lexend Deca; 
+        font-weight: 700; 
+        line-height: 26.40px; 
+        word-wrap: break-word;
+      }
+      div.Acerca{
+        left: 131px; 
+        top: 102px; 
+        position: absolute; 
+        color: white; font-size: 24px; 
+        font-family: Lexend Deca; 
+        font-weight: 700; 
+        line-height: 26.40px; 
+        word-wrap: break-word;
+      }
+      div.SantiagoDeSurco{
+        left: 596px;
+        top: 100px; 
+        position: relative;
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+      }
+      div.Facebook{
+        left: 1105px; 
+        top: 147px; 
+        position: absolute; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+        word-wrap: break-word;
+      }
+      div.InmueblesEnPer{
+        width: 155px; 
+        left: 131px; 
+        top: 147px; 
+        position: absolute; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+        word-wrap: break-word;
+      }
+      div.SanIsidro{
+        left: 596px; 
+        top: 120px; 
+        position: relative; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+
+      }
+      div.Twitter{
+        left: 1105px; 
+        top: 185px; 
+        position: absolute; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+        word-wrap: break-word;
+      }
+      div.PublicarTuInmueble{
+        width: 180px; 
+        left: 131px; 
+        top: 185px; 
+        position: absolute; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+        word-wrap: break-word;
+      }
+      div.LaMolina{
+        left: 596px; 
+        top: 140px; 
+        position: relative; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+      }
+      div.Instagram{
+        left: 1105px; 
+        top: 223px; 
+        position: absolute; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+        word-wrap: break-word;
+      }
+      div.Ayuda{
+        width: 74px; 
+        left: 131px; 
+        top: 223px; 
+        position: absolute; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+        word-wrap: break-word;
+      }
+      div.Miraflores{
+        left: 596px; 
+        top: 160px; 
+        position: relative; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+      }
+      div.Youtube{
+      left: 1105px; 
+      top: 261px; 
+      position: absolute; 
+      color: white; 
+      font-size: 16px; 
+      font-family: Exo 2; 
+      font-weight: 700; 
+      line-height: 19.60px; 
+      word-wrap: break-word;
+      }
+      div.TrabajaConNosotros{
+        width: 180px; 
+        left: 131px; 
+        top: 261px; 
+        position: absolute; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+        word-wrap: break-word;
+      }
+      div.Terminos{
+        width: 180px; 
+        left: 131px; 
+        top: 355px; 
+        position: absolute; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+        word-wrap: break-word;
+      }
+      div.Politica{
+        width: 180px; 
+        left: 431px; 
+        top: 355px; 
+        position: absolute; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 19.60px; 
+        word-wrap: break-word";
+      }
+    }
+
+    div.Navbar{
+      width: 1440px;
+      height: 121px;
+      left: 0px; 
+      top: 0px; 
+      position: absolute;
+
+      div.Rectangle1{
+        width: 1440px;
+        height: 121px; 
+        left: 0px; 
+        top: 0px;
+        position: absolute; 
+        background: #105590;
+      }
+      .Captura{
+        width: 69px; 
+        height: 70px; 
+        left: 60px; 
+        top: 15px;
+        width: 100px;
+        height: 90px;
+        position: absolute;
+      }
+
+
+      div.Inmovision{
+        left: 180px; 
+        top: 48px; 
+        position: absolute; 
+        color: white; 
+        font-size: 32px; 
+        font-family: Lexend Deca; 
+        font-weight: 700;
+        line-height: 35.20px; 
+        word-wrap: break-word;
+      }
+      a {
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+    
+      a:hover {
+        background-color: #114674;
+        padding: 10px;
+        border-radius: 10px;
+      }
+      div.Registrarse{
+        left: 1106px; 
+        top: 53px; 
+        position: absolute; 
+        color: white; 
+        font-size: 18px; 
+        font-family: Lexend Deca; 
+        font-weight: 700; 
+        line-height: 25.20px; 
+        word-wrap: break-word;
+      }
+      div.Contactos{
+        left: 955px; 
+        top: 53px; 
+        position: absolute; 
+        color: white; 
+        font-size: 18px; 
+        font-family: Lexend Deca; 
+        font-weight: 700; 
+        line-height: 25.20px; 
+        word-wrap: break-word;
+        
+      }
+      div.Destacados{
+        left: 857px; 
+        top: 52px; 
+        position: absolute; 
+        color: white; 
+        font-size: 18px; 
+        font-family: Lexend Deca; 
+        font-weight: 700; 
+        line-height: 25.20px; 
+        word-wrap: break-word;
+      }
+      div.IniciarSesioN{
+        left: 1250px; 
+        top: 53px; 
+        position: absolute; 
+        color: white; 
+        font-size: 18px; 
+        font-family: Lexend Deca; 
+        font-weight: 700; 
+        line-height: 25.20px; 
+        word-wrap: break-word;
+      }
+    }
+    
+    div.Nosotrossection{
+      width: 1440px; 
+      height: 371px; 
+      left: 0px; 
+      top: 809px; 
+      position: absolute;
+
+      div.Rectangle13{
+        width: 1440px; 
+        height: 371px; 
+        left: 0px; 
+        top: 0px; 
+        position: absolute; 
+        background: #105590;
+      }
+      div.Nosotros{
+        left: 220px;
+        top: 100px;
+        position: absolute; 
+        color: white; 
+        font-size: 40px; 
+        font-family: Lexend Deca; 
+        font-weight: 700; 
+        line-height: 44px; 
+        word-wrap: break-word;
+      }
+      div.Vision{
+        left: 709px;
+        top: 124px;
+        position: absolute; 
+        color: white; 
+        font-size: 40px; 
+        font-family: Lexend Deca; 
+        font-weight: 700; 
+        line-height: 44px; 
+        word-wrap: break-word;
+      }
+      div.Mision{
+        left: 1134px; 
+        top: 126px; 
+        position: absolute; 
+        color: white; 
+        font-size: 40px; 
+        font-family: Lexend Deca; 
+        font-weight: 700; 
+        line-height: 44px; 
+        word-wrap: break-word;
+      }
+      div.NosotrosTexto{
+        width: 474px; 
+        left: 43px; 
+        top: 168px; 
+        position: absolute; 
+        text-align: center; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 23.20px; 
+        word-wrap: break-word;
+      }
+      div.VisionTexto{
+        width: 377px; 
+        left: 577px; 
+        top: 181px; 
+        position: absolute; 
+        text-align: center; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 23.20px; 
+        word-wrap: break-word;
+      }
+      div.MisionTexto{
+        width: 350px;
+        left: 1014px; 
+        top: 186px; 
+        position: absolute; 
+        text-align: center; 
+        color: white; 
+        font-size: 16px; 
+        font-family: Exo 2; 
+        font-weight: 700; 
+        line-height: 23.20px; 
+        word-wrap: break-word;
+      }
+      .Vector{
+        width: 80px; 
+        height: 73px; 
+        left: 1160px; 
+        top: 51px; 
+        position: absolute; 
+      }
+      .Rectangle31{
+        width: 80.10px; 
+        height: 90.24px; 
+        left: 735.49px; 
+        top: 44.49px; 
+        position: absolute; 
+        transform-origin: 0 0; 
+      }
+    }
+
+    div.Propiedadesdestacadassection{
+      width: 600px;
+      height: 500px;
+      left: 720px;
+      top: 1155px;
+      position: absolute;
+      
+      a {
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+    
+      a:hover {
+        background-color: #114674;
+        padding: 10px;
+        border-radius: 10px;
+      }
+      div.Rectangle14{
+         width: 1440px;
+         height: 380px;
+         left: -720px;
+         top: 469px;
+         position: absolute;
+         background: #C6E4FF;
+      }
+      .Rectangle4{
+        width: 1440px;
+        height: 450px;
+        left: -720px;
+        top: 25px;
+        position: absolute;
+        filter: brightness(50%);
+      }
+      .Image2{
+         width: 200px;
+         height: 200px;
+         left: 227px;
+         top: 559px;
+         position: absolute;
+         background: linear-gradient(0deg, rgba(0, 0, 0, 0.57) 0%, rgba(0, 0, 0, 0.57) 100%);
+         border-radius: 23px;
+         filter: brightness(50%);
+      }
+      .Image1{
+        width: 200px;
+        height: 200px;
+        left: -83px;
+        top: 559px;
+        position: absolute;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0.65) 100%);
+        border-radius: 23px;
+        filter: brightness(50%);
+      }
+      .Rectangle6{
+        width: 200px;
+        height: 200px;
+        left: -393px;
+        top: 559px;
+        position: relative;
+        box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.20);
+        border-radius: 23px;
+        filter: brightness(50%);
+
+      }
+      div.Rectangle5{
+        width: 600px;
+        height: 500px;
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        background: #2391FF;
+        border: 1px black solid;
+      }
+      div.Campo{
+        left: 285px;
+        top: 641px;
+        position: absolute;
+        color: white;
+        font-size: 24px;
+        font-family: Lexend Deca;
+        font-weight: 700;
+        line-height: 35.20px;
+        word-wrap: break-word;
+      }
+      div.CasaDeCampoInteligente{
+        left: 17px;
+        top: 25px;
+        position: absolute;
+        color: white;
+        font-size: 40px;
+        font-family: Lexend Deca;
+        font-weight: 700;
+        line-height: 44px;
+        word-wrap: break-word;
+      }
+      div.Ciudad{
+        left: -335px;
+        top: 641px;
+        position: absolute;
+        color: white;
+        font-size: 24px;
+        font-family: Lexend Deca;
+        font-weight: 700;
+        line-height: 35.20px;
+        word-wrap: break-word;
+      }
+      div.Playa{
+        left: -15px;
+        top: 641px;
+        position: absolute;
+        color: white;
+        font-size: 24px;
+        font-family: Lexend Deca;
+        font-weight: 700;
+        line-height: 35.20px;
+        word-wrap: break-word;
+      }
+      div.DescripcionPropiedad{
+        width: 566px;
+        height: 307px;
+        left: 17px;
+        top: 80px;
+        position: absolute;
+        color: white;
+        font-size: 16px;
+        font-family: Exo 2;
+        font-weight: 700;
+        line-height: 23.20px;
+        word-wrap: break-word;
+      }
+      div.NormalButton{
+        width: 275px;
+        height: 55px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        padding-left: 80px;
+        padding-right: 63px;
+        left: 175px;
+        top: 420px;
+        position: absolute;
+        background: #105590;
+        border-radius: 8px;
+        overflow: hidden;
+        justify-content: flex-end;
+        align-items: center;
+        display: inline-flex;
+
+        div.ButtonSample{
+        color: white;
+        font-size: 16px;
+        font-family: Lexend Deca;
+        font-weight: 700;
+        line-height: 22.40px;
+        word-wrap: break-word;
+        }
+      }
+    }
+
+    div.Propiedadesalternativas{
+      width: 1473px;
+      height: 500px;
+      left: -17px;
+      top: 1971px;
+      position: absolute;
+
+      div.Rectangle11{
+        width: 1440px;
+        height: 380px;
+        left: 17px;
+        top: 475px;
+        position: absolute;
+        background: #C6E4FF;
+      }
+      .Ellipse13{
+        width: 221px;
+        height: 221px;
+        left: 176px;
+        top: 567px;
+        position: relative;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0.65) 100%); box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.20);
+        border-radius: 9999px;
+        filter: brightness(50%);
+      }
+      .Ellipse9{
+        width: 221px;
+        height: 221px;
+        left: 250px;
+        top: 567px;
+        position: relative;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0.65) 100%); box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.20);
+        border-radius: 9999px;
+        filter: brightness(50%);
+      }
+      .Ellipse10{
+        width: 221px;
+        height: 221px;
+        left: 330px;
+        top: 567px;
+        position: relative;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0.65) 100%); box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.20);
+        border-radius: 9999px;
+        filter: brightness(50%);
+      }
+      .Ellipse11{
+        width: 221px;
+        height: 221px;
+        left: 400px;
+        top: 567px;
+        position: relative;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0.65) 100%); box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.20);
+        border-radius: 9999px;
+        filter: brightness(50%);
+      }
+      div.PiscinaPrincipal{
+        left: 183px;
+        top: 660px;
+        position: absolute;
+        color: white;
+        font-size: 24px;
+        font-family: Lexend Deca;
+        font-weight: 700;
+        line-height: 35.20px;
+        word-wrap: break-word;
+      }
+      div.ZonaDeBar{
+        left: 510px;
+        top: 660px;
+        position: absolute;
+        color: white;
+        font-size: 24px;
+        font-family: Lexend Deca;
+        font-weight: 700;
+        line-height: 35.20px;
+        word-wrap: break-word;
+      }
+      div.SalaDeEstar{
+        left: 810px;
+        top: 660px;
+        position: absolute;
+        color: white;
+        font-size: 24px;
+        font-family: Lexend Deca;
+        font-weight: 700;
+        line-height: 35.20px;
+        word-wrap: break-word;
+      }
+      div.JardNExterior{
+        left: 1100px;
+        top: 660px;
+        position: absolute;
+        color: white;
+        font-size: 24px;
+        font-family: Lexend Deca;
+        font-weight: 700;
+        line-height: 35.20px;
+        word-wrap: break-word;
+      }
+      .Rectangle13{
+        width: 1440px;
+        height: 450px;
+        left: 18px;
+        top: 25px;
+        position: absolute;
+        filter: brightness(50%);
+      }
+      div.Rectangle10{
+        width: 600px;
+        height: 500px;
+        left: 137px;
+        top: 0px;
+        position: absolute;
+        background: #2391FF;
+      }
+      div.DesAlternativa{
+        width: 566px;
+        height: 307px;
+        left: 154px;
+        top: 83px;
+        position: absolute;
+        color: white;
+        font-size: 16px;
+        font-family: Exo 2;
+        font-weight: 700;
+        line-height: 23.20px;
+        word-wrap: break-word;
+      }
+      div.CasaDePlayaTematica{
+        left: 154px;
+        top: 25px;
+        position: absolute;
+        color: white;
+        font-size: 40px;
+        font-family: Lexend Deca;
+        font-weight: 700;
+        line-height: 44px;
+        word-wrap: break-word;
+      }
+      div.NormalButton{
+        width: 275px;
+        height: 55px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        padding-left: 80px;
+        padding-right: 63px;
+        left: 300px;
+        top: 420px;
+        position: absolute;
+        background: #105590;
+        border-radius: 8px;
+        overflow: hidden;
+        justify-content: flex-end;
+        align-items: center;
+        display: inline-flex;
+
+        div.ButtonSample{
+          color: white;
+          font-size: 16px;
+          font-family: Lexend Deca;
+          font-weight: 700;
+          line-height: 22.40px;
+          word-wrap: break-word;
+        }
+      }
+    }
+
+    div.CarouselContents{
+      width: 889px;
+      left: 280px;
+      top: 434.45px;
+      position: absolute;
+
+      div.MediumButton{
+        width: 187px;
+        height: 90.25px;
+        padding-left: 32px;
+        padding-right: 32px;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        left: 0px;
+        top: 217.37px;
+        position: absolute;
+        background: #105590;
+        border-radius: 8px;
+        overflow: hidden;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 10px;
+        display: inline-flex;
+
+        div.CallToAction{
+          text-align: center;
+          color: white;
+          font-size: 18px;
+          font-family: Lexend Deca;
+          font-weight: 700;
+          line-height: 25.20px;
+          word-wrap: break-word;
+        }
+      }
+      div.Contents{
+        width: 889px;
+        height: 171.60px;
+        left: 0px;
+        top: 0px;
+        position: absolute;
+
+        div.Accede{
+          width: 889px;
+          height: 85.08px;
+          left: 0px;
+          top: 150px;
+          position: absolute;
+          color: white;
+          font-size: 20px;
+          font-family: Exo 2;
+          font-weight: 400;
+          line-height: 28px;
+          word-wrap: break-word;
+          text-shadow: 2px 2px 4px rgba(0, 0, 0, 5);
+        }
+        div.DeLaRealidadALaVirtualidad{
+          width: 845px;
+          height: 63.08px;
+          left: 0px;
+          top: 0px;
+          position: absolute;
+          color: white;
+          font-size: 56px;
+          font-family: Lexend Deca;
+          font-weight: 700;
+          line-height: 61.60px;
+          word-wrap: break-word;
+          text-shadow: 2px 2px 4px rgba(0, 0, 0, 5);
+        }
+      }
+    }
+    
+    div.Carousel{
+      width: 1440px;
+      height: 710px;
+      left: 0px;
+      top: 121px;
+      position: absolute;
+
+     .ImageBackground{
+        width: 1440px;
+        height: 710px;
+        left: 0px;
+        top:  0px;
+        position: absolute;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        filter: brightness(50%);
+      }
+      div.Indicators{
+        left: 690px;
+        top: 641.90px;
+        position: absolute;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 2px;
+        display: inline-flex;
+
+        div.Active{
+          width: 40px;
+          height: 8px;
+          background: white;
+          border-radius: 30px;
+        }
+        div.Inactive{
+          width: 8px;
+          height: 8px;
+          background: rgba(255, 255, 255, 0.56);
+          border-radius: 9999px;
+        }
+        div.Inavtive{
+          width: 8px;
+          height: 8px;
+          background: rgba(255, 255, 255, 0.56);
+          border-radius: 9999px;
+        }
+      }
+      div.Nav{
+        height: 32px;
+        left: 87.27px;
+        top: 272px;
+        position: absolute;
+
+        div.NavigationFilled{
+          width: 43.64px;
+          height: 32px;
+          left: 1265.45px;
+          top: 0px;
+          position: absolute;
+          transform: rotate(180deg);
+          transform-origin: 0 0;
+          flex-direction: column;
+          justify-content: flex-start;
+          align-items: flex-start;
+          display: inline-flex;
+
+          div.Ellipse14{
+            width: 43.64px;
+            height: 32px;
+            opacity: 0.32;
+            background: #E0E0E0;
+            border-radius: 9999px;
+          }
+          div.Line{
+            width: 9.55px;
+            height: 14px;
+            transform: rotate(180deg);
+            transform-origin: 0 0;
+            border: 2px white solid;
+          }
+        }   
+      }
+    }
+
+    .form-box {
+      background-color: #105590;
+      padding: 20px;
+      border-radius: 15px;
+      width: 300px;
+      margin: 20px;
+      color: white;
+    } 
+  
+    .form-box h2 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+    
+    .form-box label {
+        margin-bottom: 10px;
+        display: block;
+      }
+    
+    .form-box input, 
+    .form-box select {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        border: none;
+    }
+    
+    .buttons-outside {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+        width: 300px;
+    }
+    
+    .buttons-outside button {
+        width: 45%;
+        padding: 10px;
+        background-color: #105590;
+        border: none;
+        border-radius: 5px;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    
+    .buttons-outside button:hover {
+        background-color: #114674;
+    }
+  }
+}
