@@ -61,12 +61,11 @@ body{
     font-weight: bold;
     font-size: 20px;
 }
-.contenedor-inicio_sesion{
-    display: absolute;
+.contenedor-Inicio_sesion{
+    display: flex;
     justify-content: center;
     align-items: center;
     margin-top:30px;
-    margin-left: 180px;
 }
 .sesion{
     background-color: #105590;
@@ -77,7 +76,7 @@ body{
     color: white;
     display: flex;
     flex-direction: column;
-    margin-left: 290px;
+    margin-left: 600px;
 }
 .sesion h2{
     text-align: center;
@@ -128,7 +127,4 @@ button{
     color: white;
     font-size: 16px;
     cursor: pointer;   
-}
-.button-login button:hover{
-    background-color: #114674;
 }
