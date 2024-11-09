@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles/arrendedor.css">
+    <title>InmoVision</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo_container">
+                <img src="/imagenes/inmovisionlogo.png" alt="">
+                <a href="home.html"><p>InmoVision</p></a>
+            </div>  
+            <nav class="navegacion">
+                <a href="home.html">Inicio</a>
+                <a href="destacados.html">Destacados</a>
+            </nav>
+            <div class="avatar_container">
+                <img src="/imagenes/profilearren.png" alt="Perfil" class="avatar">
+            </div>
+        </div>
+    </header>
+    <div class="fondo_imagen">
+        <div class="texto_imagen">
+            <div class="contenido_cuadro">
+                <h1>De la realidad a la virtualidad</h1>
+                <p>Accede a nuestro simulador virtual donde podrás introducirte a los ambientes interiores de tu<br> futuro hogar.</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="home-house">
+        <div class="add-img">
+
+        </div>
+        <div class="lista">
+            <div class="lugar">
+                <div class="imagen-propiedad1">
+                    
+                </div>
+                <div class="info-propiedad">
+                    <div class="parrafo">
+                        <p>Precio:$300,000</p>
+                        <p>Dormitorios:6</p>
+                        <p>Ubicación:Huaral</p>
+                    </div>
+                    <div class="buttons">
+                        <a href="edition.html">
+                            <button class="add">Editar</button>
+                        </a>
+                        <button class="erase">Eliminar</button>
+                    </div>
+                   
+                </div>
+            </div>  
+            
+        </div>
+        <div class="agregar-container">
+            <button class="btn-agregar" onclick="abrirModal()">+</button>
+        </div>
+        <div class="add2-img">
+
+        </div>
+    </div>
+    
+    <div id="modalAgregar" class="modal">
+        <div class="modal-contenido">
+            <span class="cerrar" onclick="cerrarModal()">&times;</span>
+            <h2>Agregar Nueva Propiedad</h2>
+            <form onsubmit="agregarPropiedad(event)">
+                <label for="ubicacion">Ubicación:</label>
+                <input type="text" id="ubicacion" name="ubicacion" required>
+
+                <label for="precio">Precio:</label>
+                <input type="text" id="precio" name="precio" required>
+
+                <label for="dormitorios">Nº de Dormitorios:</label>
+                <input type="number" id="dormitorios" name="dormitorios" required>
+
+                <label for="imagen">Imagen de la Propiedad:</label>
+                <input type="file" id="imagen" name="imagen" accept="image/*" required>
+
+                <button type="submit">Guardar</button>
+            </form>
+        </div>
+    </div>
+    <script src="/scripts/agregarpropiedades.js"></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/aframe/0.7.1/aframe.min.js"></script>
+    <link rel="stylesheet" href="/styles/simulation.css">
+    <title>Inmovision</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo_container">
+                <img src="/imagenes/inmovisionlogo.png" alt="">
+                <a href="home.html"><p>InmoVision</p></a>
+            </div>  
+            <nav class="navegacion">
+                <a href="home.html">Inicio</a>
+                <a href="#">Destacados</a>
+            </nav>
+            <div class="avatar_container">
+                <img src="/imagenes/profile.jpg" alt="Perfil" class="avatar">
+            </div>
+        </div>
+    </header>
+    <a-scene>
+        <img id="panorama" src="/imagenes/shot-panoramic-composition-bathroom.jpg" alt="">
+        <a-sky src="#panorama" rotation="0 -90 0"></a-sky>
+    </a-scene>
+</body>
+</html>
